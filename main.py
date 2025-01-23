@@ -87,6 +87,6 @@ def process_directory(directory):
 
 if __name__ == "__main__":
     # Directory containing the videos
-    video_directory = "/home/pablo/Desktop/data_storage/Arquivo-Pablo-e-Carol/Carol"
+    video_directory = "your directory here"
     # Process the directory
     process_directory(video_directory)
